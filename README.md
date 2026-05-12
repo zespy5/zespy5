@@ -92,16 +92,7 @@ Here are some ideas to get you started:
 
 **Domain expertise**: Diffusion (DDPM · DiT · Flow Matching) · VLM (LLaVA · Qwen-VL) · Image-to-Image Translation · Multi-GPU training · CFG / Classifier-free guidance · LoRA
 
----
 
-### Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zespy5&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&title_color=9B1D2A&icon_color=9B1D2A&text_color=1A1A1A&bg_color=FAF8F5" alt="GitHub Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zespy5&layout=compact&hide_border=true&theme=default&title_color=9B1D2A&text_color=1A1A1A&bg_color=FAF8F5" alt="Top Languages">
-</p>
-
-<!-- TODO: stats 위젯이 봉국님 활동을 잘 반영하지 않으면 위 두 줄 둘 다 삭제. private repo가 많으면 어차피 통계가 비어 보일 수 있음. -->
 
 ---
 
