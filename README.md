@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 | Project | Type | Highlight |
 | --- | --- | --- |
-| **Adaptive CFG for Robust I2I Translation**[link  :https://zespy5.github.io/AdaCFG/] | Paper · SCIE 게재 | IEEE Access 1저자 · plug-and-play I2I framework |
+| [**Adaptive CFG for Robust I2I Translation**](https://zespy5.github.io/AdaCFG/) | Paper · SCIE 게재 | IEEE Access 1저자 · plug-and-play I2I framework |
 | **주행환경 변환 데이터 합성** | 산학협력 (슈어소프트테크) | Diffusion + VLM 듀얼 트랙 · 특허 출원 · SW 저작권 등록 |
 | **Multi-view Video to Video Translation** | 산학과제 후속 | NuScenes 6-view · 모든 metric SOTA |
 | **Training-free Open-Ended Seg. via VLM Attn** | Personal Research | Upper Triangle Attention 활용 · Train-free SOTA on 3 benchmarks |
