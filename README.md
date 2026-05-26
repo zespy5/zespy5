@@ -88,7 +88,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-**Domain expertise**: Diffusion (DDPM · DiT · Flow Matching) · VLM (LLaVA · Qwen-VL) · Image-to-Image Translation · Multi-GPU training · CFG / Classifier-free guidance · LoRA
+**Domain expertise**: 
+
+Diffusion (DDPM · DiT · Flow Matching) · VLM (LLaVA · Qwen-VL) · Image-to-Image Translation · Multi-GPU training · CFG / Classifier-free guidance · LoRA
 
 
 
